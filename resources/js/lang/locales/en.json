@@ -1,0 +1,67 @@
+{
+    "orders": {
+        "header": "My orders",
+        "order": "Order",
+        "quantity": "Quantity",
+        "delivery": "Delivery",
+        "total": "Total",
+        "save": "Save",
+        "pay": "Pay"
+    },
+    "cart": {
+        "title": "Cart",
+        "name": "Name",
+        "quantity": "Quantity",
+        "price": "Price",
+        "price_1q": "for 1",
+        "nothing_added": "Nothing has been added to the cart yet.",
+        "final_amount": "Total cost",
+        "checkout": "Checkout"
+    },
+    "labels": {
+        "q": "pcs",
+        "delivery": "Delivery",
+        "order": "Order",
+        "payment": "Payment",
+        "calculation": "Calculation",
+        "country": "Country",
+        "city": "City",
+        "region": "Region",
+        "start_input": "Start input name"
+    },
+    "checkout": {
+        "title": "Checkout",
+        "description": "Data is duplicated from your account. Check that they are correct before paying for the order.",
+        "personal_data": "Personal data",
+        "user_name": "Name",
+        "phone": "Phone",
+        "email": "Email",
+        "city_code_required": "city code required",
+        "address": "Address",
+        "postcode": "Postcode",
+        "payment_method": "Payment method",
+        "comment": "Comment",
+        "agree": "I'm agree",
+        "delivery": "Delivery method",
+        "choose_delivery": "Choose delivery",
+        "service_rules": "service rules",
+        "bill": "Create bill",
+        "order": "Checkout",
+        "empty_delivery_method": "Delivery method does not selected."
+    },
+    "deposit": {
+        "title": "Top up balance",
+        "replenishment": "Deposit replenishment",
+        "cancel_reason": "Cancel reason",
+        "amount": "Amount",
+        "charge": "Total will be charged",
+        "commission": "Commission",
+        "payment_method": "Payment method",
+        "confirm_payment": "Confirm Payment",
+        "download_invoice": "Download invoice",
+        "methods": {
+            "paypal": "Paypal",
+            "bill": "Bill"
+        }
+    }
+}
